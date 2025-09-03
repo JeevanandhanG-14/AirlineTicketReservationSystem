@@ -23,6 +23,7 @@ It allows users to **book, view, update, and cancel tickets**. The project uses 
 ---
 
 ## 📂 Project Structure
+
 Airline-Ticket-Reservation-System/
 ├── src/com/project/
 │ ├── AirlinesApplication.java # Main application
